@@ -24,11 +24,6 @@ public class TwitterProducer {
 
     Logger logger = LoggerFactory.getLogger(TwitterProducer.class.getName());
 
-    String ConsumerKey = "d8zfFrGSCEfyoVjxEtyyfw5li";
-    String consumerSecret = "mKLsIbcTFzMVwdARn3DAyQ80lcJAvvbjvm4MKMgmoN6XfkrV90";
-    //Bearer Token : AAAAAAAAAAAAAAAAAAAAAH6zLwEAAAAAN6kJhEtYNfcrjmiCX03nHX0HoCY%3DVrYx8tszxIF2q604lH5Pcf4PQtzCUX8eDLi7IeYZ856cLoTAuV
-    String token = "1351520296055025665-eakUWFhlFvC5HQTwTYB8T7UK8lPDd1";
-    String secret = "YrZjKQQfIpLGuUG9MEsHfyDiU4SIWtFtdC11rVgJ0aYNt";
 
     public TwitterProducer() {}
 
